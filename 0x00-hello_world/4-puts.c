@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: entry point
- * return: (0) success
+ * main- entry point
+ * Description: the code prints the value in the puts
+ * Return (0)- returns back to main
  */
 
 int main(void)
