@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * This programme prints the alphabet in the lowercase
- * Return : Always (0) success
+ * print_alphabet - prints alphabets
+ *
+ * Return : void
  */
 
 void print_alphabet(void)
