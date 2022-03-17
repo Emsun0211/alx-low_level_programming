@@ -11,13 +11,12 @@ int _isupper(int c)
 	int c;
 
 	if (c >= 'A' && c <= 'Z')
-	{
-		printf('1');
-	}
+	
+		_putchar(1);
+
 	else
-	{
-		printf('0');
-	}
-	printf('\n');
-	return (0);
+	
+		_putchar(0);
+
+	_putchar('\n');
 }
