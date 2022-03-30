@@ -1,21 +1,3 @@
-
-olamic
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-alx-low_level_programming/0x07-pointers_arrays_strings/8-print_diagsums.c
-@olamic
-olamic pointer code
- 1 contributor
-32 lines (25 sloc)  523 Bytes
 #include "main.h"
 #include <stdio.h>
 
