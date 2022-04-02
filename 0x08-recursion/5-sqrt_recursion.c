@@ -32,6 +32,3 @@ int _sqrt_recursion(int n)
 		return (1);
 	return (power_operation(n, 2));
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
