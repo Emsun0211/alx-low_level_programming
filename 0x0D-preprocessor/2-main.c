@@ -2,7 +2,7 @@
 
 /**
  * main - prints the name of file from which it was printed from
- * return (0)
+ * Return: 0 alway
  **/
 
 int main(void)
